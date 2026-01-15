@@ -4,7 +4,7 @@
 
 Hi! 👋
 
-It’s been a while since my last GitHub update. I was focused on **applying for jobs** and recently started my **Junior Data Analyst role at Micro Panda Private Limited Company**.  
+It’s been a while since my last GitHub update. I was focused on **applying for jobs** and recently started my **Junior Data Analyst role at Micro Panda Technology Private Limited Company**.  
 
 I’m back to keeping my GitHub active and sharing my work, including:
 - SQL queries and small analyses
